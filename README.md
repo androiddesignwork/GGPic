@@ -1,0 +1,3 @@
+一打开的界面是ExplorerPic.java和fragment_explorer_pic.xml，意思是浏览不同类型图片，每种类型图片都要获取一张固定封面
+点进去就是PicView.java和fragment_picview.xml，此时应该已经通过api获取图片了
+再点击图片就是大图了PicDetail.java和activity_pic_detail.xml
